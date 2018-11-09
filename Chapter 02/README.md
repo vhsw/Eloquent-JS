@@ -1,4 +1,4 @@
-#Exercises
+# Exercises
 
 * Looping a triangle
 * FizzBuzz

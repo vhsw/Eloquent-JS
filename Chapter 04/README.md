@@ -1,4 +1,4 @@
-#Exercises
+# Exercises
 
 * The sum of a range
 * Reversing an array

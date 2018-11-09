@@ -1,4 +1,4 @@
-#Exercises
+# Exercises
 
 * Flattening
 * Your own loop
